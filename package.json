@@ -1,0 +1,13 @@
+{
+    "name": "project-js-astro-weight",
+    "version": "0.1.0",
+    "scripts": {
+        "test": "mocha"
+    },
+    "dependencies": {
+        "chai": "^4.0.2",
+        "jquery": "^3.2.1",
+        "jsdom": "^9.12.0",
+        "mocha": "^3.2.0"
+    }
+}
